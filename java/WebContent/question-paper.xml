@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+
+	<Q>
+	    <question>What is the size of char variable?</question>
+	    <choice1>8 bit</choice1>
+	    <choice2>16 bit</choice2>
+	    <choice3>32 bit</choice3>
+	    <choice4>64 bit</choice4>
+	    <answer>16 bit</answer>
+	</Q>
+	<Q>
+	    <question>What is the default value of int variable?</question>
+	    <choice1>0</choice1>
+	    <choice2>0.0</choice2>
+	    <choice3>null</choice3>
+	    <choice4>not defined</choice4>
+	    <answer>0</answer>
+	</Q>
+	<Q>
+	    <question>What is the default value of Object variable?</question>
+	    <choice1>undefined</choice1>
+	    <choice2>0</choice2>
+	    <choice3>null</choice3>
+	    <choice4>not defined</choice4>
+	    <answer>null</answer>
+	</Q>
+	<Q>
+	    <question>What is inheritance?</question>
+	    <choice1>It is the process where one object acquires the properties of another.</choice1>
+	    <choice2>inheritance is the ability of an object to take on many forms.</choice2>
+	    <choice3>inheritance is a technique to define different methods of same type.</choice3>
+	    <choice4>None of the above.</choice4>
+	    <answer>It is the process where one object acquires the properties of another.</answer>
+	</Q>
+	<Q>
+	    <question>What is true about a final class?</question>
+	    <choice1>class declard final is a final class.</choice1>
+	    <choice2>Final classes are created so the methods implemented by that class cannot be overridden.</choice2>
+	    <choice3>It can't be inherited.</choice3>
+	    <choice4>All of the above.</choice4>
+	    <answer>All of the above.</answer>
+	</Q>
+	<Q>
+	    <question>What happens when thread's yield() method is called?</question>
+	    <choice1>Thread returns to the ready state.</choice1>
+	    <choice2>Thread returns to the waiting state.</choice2>
+	    <choice3>Thread starts running.</choice3>
+	    <choice4>None of the above.</choice4>
+	    <answer>Thread returns to the ready state.</answer>
+	</Q>
+	<Q>
+	    <question>What will happen if static modifier is removed from the signature of the main method?</question>
+	    <choice1>Compilation Error.</choice1>
+	    <choice2>RunTime Error: NoSuchMethodError.</choice2>
+	    <choice3>Program will compile and run without any output.</choice3>
+	    <choice4>Program will compile and run to show the required output.</choice4>
+	    <answer>RunTime Error: NoSuchMethodError.</answer>
+	</Q>
+	<Q>
+	    <question>What is currentThread()?</question>
+	    <choice1>It is a Thread public static method used to obtain a reference to the current thread.</choice1>
+	    <choice2>It is a thread's instance method used to get thread count.</choice2>
+	    <choice3>It is a object's public static method used obtain a reference to the current thread.</choice3>
+	    <choice4>It is a object's instance method used to get thread count.</choice4>
+	    <answer>It is a Thread public static method used to obtain a reference to the current thread.</answer>
+	</Q>
+	<Q>
+	    <question>What of the following is the default value of an instance variable?</question>
+	    <choice1>null</choice1>
+	    <choice2>0</choice2>
+	    <choice3>Depends upon the type of variable</choice3>
+	    <choice4>Not assigned</choice4>
+	    <answer>Depends upon the type of variable</answer>
+	</Q>
+	<Q>
+	    <question>What is the size of boolean variable?</question>
+	    <choice1>8 bit</choice1>
+	    <choice2>16 bit</choice2>
+	    <choice3>32 bit</choice3>
+	    <choice4>not precisely defined</choice4>
+	    <answer>16 bit</answer>
+	</Q>
+	<Q>
+	    <question>Which of the following is true about protected access modifier?</question>
+	    <choice1>Variables, methods and constructors which are declared protected can be accessed by any class.</choice1>
+	    <choice2>Variables, methods and constructors which are declared protected can be accessed by any class lying in same package.</choice2>
+	    <choice3>Variables, methods and constructors which are declared protected in the superclass can be accessed only by its child class.</choice3>
+	    <choice4>None of the above.</choice4>
+	    <answer>Variables, methods and constructors which are declared protected in the superclass can be accessed only by its child class.</answer>
+	</Q>
+	<Q>
+	    <question>What is an applet?</question>
+	    <choice1>An applet is a Java program that runs in a Web browser.</choice1>
+	    <choice2>Applet is a standalone java program.</choice2>
+	    <choice3>Applet is a tool.</choice3>
+	    <choice4>Applet is a run time environment.</choice4>
+	    <answer>An applet is a Java program that runs in a Web browser.</answer>
+	</Q>
+	<Q>
+	    <question>What is the size of double variable?</question>
+	    <choice1>8 bit</choice1>
+	    <choice2>16 bit</choice2>
+	    <choice3>32 bit</choice3>
+	    <choice4>64 bit</choice4>
+	    <answer>64 bit</answer>
+	</Q>
+	<Q>
+	    <question>What is the default value of float variable?</question>
+	    <choice1>0.0d</choice1>
+	    <choice2>0.0f</choice2>
+	    <choice3>0</choice3>
+	    <choice4>not defined</choice4>
+	    <answer>0.0f</answer>
+	</Q>
+	<Q>
+	    <question>What is instance variable?</question>
+	    <choice1>Instance variables are static variables within a class but outside any method.</choice1>
+	    <choice2>Instance variables are variables defined inside methods, constructors or blocks.</choice2>
+	    <choice3>Instance variables are variables within a class but outside any method.</choice3>
+	    <choice4>None of the above.</choice4>
+	    <answer>Instance variables are variables within a class but outside any method.</answer>
+	</Q>
+	<Q>
+	    <question>What is composition?</question>
+	    <choice1>Composition is a data structure.</choice1>
+	    <choice2>Composition is a way to create an object.</choice2>
+	    <choice3>Holding the reference of the other class within some other class is known as composition.</choice3>
+	    <choice4>None of the above.</choice4>
+	    <answer>Holding the reference of the other class within some other class is known as composition.</answer>
+	</Q>
+	<Q>
+	    <question>What invokes a thread's run() method?</question>
+	    <choice1>JVM invokes the thread's run() method when the thread is initially executed.</choice1>
+	    <choice2>Main application running the thread.</choice2>
+	    <choice3>start() method of the thread class.</choice3>
+	    <choice4>None of the above.</choice4>
+	    <answer>JVM invokes the thread's run() method when the thread is initially executed.</answer>
+	</Q>
+	<Q>
+	    <question>Which method must be implemented by all threads?</question>
+	    <choice1>wait()</choice1>
+	    <choice2>start()</choice2>
+	    <choice3>stop()</choice3>
+	    <choice4>run()</choice4>
+	    <answer>run()</answer>
+	</Q>
+	<Q>
+	    <question>Which of the following is not a keyword in java?</question>
+	    <choice1>static</choice1>
+	    <choice2>Boolean</choice2>
+	    <choice3>void</choice3>
+	    <choice4>private</choice4>
+	    <answer>Boolean</answer>
+	</Q>
+	<Q>
+	    <question>What is the size of long variable?</question>
+	    <choice1>8 bit</choice1>
+	    <choice2>16 bit</choice2>
+	    <choice3>32 bit</choice3>
+	    <choice4>64 bit</choice4>
+	    <answer>64 bit</answer>
+	</Q>
+	<Q>
+	    <question>What is the default value of String variable?</question>
+	    <choice1>""</choice1>
+	    <choice2>''</choice2>
+	    <choice3>null</choice3>
+	    <choice4>not defined</choice4>
+	    <answer>null</answer>
+	</Q>
+	<Q>
+	    <question>Which of the following is false about String?</question>
+	    <choice1>String is immutable.</choice1>
+	    <choice2>String can be created using new operator.</choice2>
+	    <choice3>String is a primary data type.</choice3>
+	    <choice4>None of the above.</choice4>
+	    <answer>String is a primary data type.</answer>
+	</Q>
+	<!-- <Q>
+	    <question></question>
+	    <choice1></choice1>
+	    <choice2></choice2>
+	    <choice3></choice3>
+	    <choice4></choice4>
+	    <answer></answer>
+	</Q>
+	<Q>
+	    <question></question>
+	    <choice1></choice1>
+	    <choice2></choice2>
+	    <choice3></choice3>
+	    <choice4></choice4>
+	    <answer></answer>
+	</Q>
+	<Q>
+	    <question></question>
+	    <choice1></choice1>
+	    <choice2></choice2>
+	    <choice3></choice3>
+	    <choice4></choice4>
+	    <answer></answer>
+	</Q>
+	<Q>
+	    <question></question>
+	    <choice1></choice1>
+	    <choice2></choice2>
+	    <choice3></choice3>
+	    <choice4></choice4>
+	    <answer></answer>
+	</Q>
+	<Q>
+	    <question></question>
+	    <choice1></choice1>
+	    <choice2></choice2>
+	    <choice3></choice3>
+	    <choice4></choice4>
+	    <answer></answer>
+	</Q>
+	<Q>
+	    <question></question>
+	    <choice1></choice1>
+	    <choice2></choice2>
+	    <choice3></choice3>
+	    <choice4></choice4>
+	    <answer></answer>
+	</Q>
+	<Q>
+	    <question></question>
+	    <choice1></choice1>
+	    <choice2></choice2>
+	    <choice3></choice3>
+	    <choice4></choice4>
+	    <answer></answer>
+	</Q>
+	<Q>
+	    <question></question>
+	    <choice1></choice1>
+	    <choice2></choice2>
+	    <choice3></choice3>
+	    <choice4></choice4>
+	    <answer></answer>
+	</Q>
+	<Q>
+	    <question></question>
+	    <choice1></choice1>
+	    <choice2></choice2>
+	    <choice3></choice3>
+	    <choice4></choice4>
+	    <answer></answer>
+	</Q>
+	<Q>
+	    <question></question>
+	    <choice1></choice1>
+	    <choice2></choice2>
+	    <choice3></choice3>
+	    <choice4></choice4>
+	    <answer></answer>
+	</Q>
+	<Q>
+	    <question></question>
+	    <choice1></choice1>
+	    <choice2></choice2>
+	    <choice3></choice3>
+	    <choice4></choice4>
+	    <answer></answer>
+	</Q>
+	<Q>
+	    <question></question>
+	    <choice1></choice1>
+	    <choice2></choice2>
+	    <choice3></choice3>
+	    <choice4></choice4>
+	    <answer></answer>
+	</Q>
+	<Q>
+	    <question></question>
+	    <choice1></choice1>
+	    <choice2></choice2>
+	    <choice3></choice3>
+	    <choice4></choice4>
+	    <answer></answer>
+	</Q>
+	<Q>
+	    <question></question>
+	    <choice1></choice1>
+	    <choice2></choice2>
+	    <choice3></choice3>
+	    <choice4></choice4>
+	    <answer></answer>
+	</Q>
+	<Q>
+	    <question></question>
+	    <choice1></choice1>
+	    <choice2></choice2>
+	    <choice3></choice3>
+	    <choice4></choice4>
+	    <answer></answer>
+	</Q>
+	<Q>
+	    <question></question>
+	    <choice1></choice1>
+	    <choice2></choice2>
+	    <choice3></choice3>
+	    <choice4></choice4>
+	    <answer></answer>
+	</Q>
+	<Q>
+	    <question></question>
+	    <choice1></choice1>
+	    <choice2></choice2>
+	    <choice3></choice3>
+	    <choice4></choice4>
+	    <answer></answer>
+	</Q>
+ -->
+
+</questions>

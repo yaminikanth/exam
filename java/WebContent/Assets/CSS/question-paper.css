@@ -1,0 +1,33 @@
+body{
+	background: #3CA55C; /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #3CA55C , #B5AC49); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #3CA55C , #B5AC49); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+ul{
+	list-style-type: none;
+}
+.style{
+	 width: 600px;
+        margin: 5em auto ;
+        padding: 0 50px 50px 50px;
+        background-color: #fff;
+        border-radius: 1em;
+}
+#appear{
+	
+	margin: 0 auto ;
+        padding: 50px;
+}
+#welcome{
+	position: relative;
+	background-color: #2980b9;
+	margin: 0;
+	padding: 16px;
+	color: white;
+	width: 668px;
+    right: 50px; 
+	}
+#MSG{
+	margin: 0;
+padding: 16px;
+}
