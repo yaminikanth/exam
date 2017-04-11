@@ -1,6 +1,6 @@
 FROM centos
 RUN yum -y update; \
-yum install -y wget; \
+yum install -y wget java-1.7.0-openjdk; \
 mkdir /opt/softwares; \
 cd /opt/softwares; \
 wget http://www.webhostingreviewjam.com/mirror/apache/tomcat/tomcat-8/v8.5.13/bin/apache-tomcat-8.5.13.tar.gz; \
